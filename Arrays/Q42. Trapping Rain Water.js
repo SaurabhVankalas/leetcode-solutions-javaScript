@@ -71,3 +71,7 @@
 	
 	return ans;
 };
+
+let input = [1,4,54,25,56,2,123,5,12,34,41]
+let result = trap(input)
+console.log(result)
